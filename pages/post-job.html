@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CareerLink</title>
-   
 </head>
 <body>
 
-    
+    <!-- ========================== 
+         NAVIGATION BAR 
+    =========================== -->
     <header>
         <nav>
             <a href="../index.html" class="logo">CareerLink</a>
@@ -16,17 +17,71 @@
                 <li><a href="jobs.html">Jobs</a></li>
                 <li><a href="network.html">Network</a></li>
                 <li><a href="messages.html">Messages</a></li>
-                <li><a href="/profile.html">Profile</a></li>
+                <li><a href="profile.html">Profile</a></li>
             </ul>
         </nav>
     </header>
 
-   
-    <main>
-       
-    </main>
+    <!-- ========================== 
+         PAGE TITLE 
+    =========================== -->
+    <h1>Post a New Job</h1>
 
-  
+    <!-- ========================== 
+         JOB POSTING FORM  
+         Employers use this to add new job listings  
+    =========================== -->
+    <section>
+        <form>
+
+            <!-- Job title input -->
+            <p>Job Title:</p>
+            <input type="text" placeholder="e.g. Frontend Developer">
+
+            <!-- Company name input -->
+            <p>Company Name:</p>
+            <input type="text" placeholder="e.g. TechNova Solutions">
+
+            <!-- Salary range input -->
+            <p>Salary Range:</p>
+            <input type="text" placeholder="e.g. $40,000 - $60,000 / year">
+
+            <!-- Job location input -->
+            <p>Location:</p>
+            <input type="text" placeholder="e.g. Remote, New York, Toronto">
+
+            <!-- Job type dropdown menu -->
+            <p>Job Type:</p>
+            <select>
+                <option>Full-Time</option>
+                <option>Part-Time</option>
+                <option>Contract</option>
+                <option>Internship</option>
+                <option>Remote</option>
+            </select>
+
+            <!-- Job description -->
+            <p>Description:</p>
+            <textarea placeholder="Write a detailed job description..."></textarea>
+
+            <!-- Job requirements -->
+            <p>Requirements:</p>
+            <textarea placeholder="List the job requirements..."></textarea>
+
+            <!-- Optional preferred skills -->
+            <p>Preferred Skills:</p>
+            <textarea placeholder="List preferred skills (optional)..."></textarea>
+
+            <br><br>
+
+            <!-- Submit button -->
+            <button type="submit">Submit Job</button>
+        </form>
+    </section>
+
+    <!-- ========================== 
+         FOOTER 
+    =========================== -->
     <footer>
         <p>© 2025 CareerLink. All rights reserved.</p>
     </footer>
