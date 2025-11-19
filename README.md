@@ -6,7 +6,7 @@
 3.	Fiker Robel                        
 4.	Hawi Sebsibe                     
 5.	Haleluya Desalegn                                
-6.	Lidia Aliso   
+ 
 
 
 **CareerLink** is a multi-page web application designed to help users find jobs, manage their professional profiles, track applications, and network with other professionals. This version includes **full HTML structure**. CSS and JavaScript will be implemented in later stages to enhance UI and interactivity.
