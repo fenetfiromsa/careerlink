@@ -80,17 +80,17 @@ git clone https://github.com/fenetfiromsa/careerlink.git
 
 Open the index.html file in your browser to start exploring the app.
 
-Usage Guide
+## Usage Guide
 Action	Description
-Navigate Pages	Use the top navigation bar to access Home, Jobs, Network, Messages, and Profile
-View Profile	Check user info, skills, experience, and edit profile form
-Explore Jobs	Browse job listings and click "View Details" for more info
-Apply for Jobs	Click "Apply Now" on job details page (placeholder)
-Post a Job	Fill in the job post form (for recruiters)
-Track Applications	View the table of submitted applications and their status
-Connect with Professionals	Use the network page to send connection requests
-Send Messages	Open messages page to chat with connections
-Manage Settings	Update account, privacy, and notification preferences
+Navigate Pages               	Use the top navigation bar to access Home, Jobs, Network, Messages, and Profile
+View Profile	                Check user info, skills, experience, and edit profile form
+Explore Jobs                 	Browse job listings and click "View Details" for more info
+Apply for Jobs	              Click "Apply Now" on job details page (placeholder)
+Post a Job	                  Fill in the job post form (for recruiters)
+Track Applications           	View the table of submitted applications and their status
+Connect with Professionals  	Use the network page to send connection requests
+Send Messages	                Open messages page to chat with connections
+Manage Settings	              Update account, privacy, and notification preferences
 
 
 
